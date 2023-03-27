@@ -8,7 +8,7 @@
 <h3 align="center">🌱 What i've been learning</h3>
   <p align="center">Main stacks</p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,next,js,ts,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,cs" />
   </p>
 
 
