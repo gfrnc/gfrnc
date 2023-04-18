@@ -6,6 +6,8 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/gfrnca/">
       <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="mailto:gabrielbfranca27@gmail.com">
+      <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=gfrnca&style=for-the-badge"/>
 </p>
