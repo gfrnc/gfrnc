@@ -75,6 +75,6 @@
 
 ## **🚀 Check out my portfolio:**
 
-<a href="gfrnca.vercel.app">gfrnca.vercel.app</a>
+<a href="https://gfrnca.vercel.app">gfrnca.vercel.app</a>
 
 
