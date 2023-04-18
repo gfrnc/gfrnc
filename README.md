@@ -24,6 +24,7 @@
 
 
 ## **🤯 What i've been learning:**
+
   <details open>
     <summary>🌟 Languages</summary>
     <br>
@@ -31,13 +32,36 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs" />
     </p>
   </details>
-  <br>
-  <br>
+
   <details open>
     <summary>🧩 Frameworks and Libraries</summary>
     <br>
     <p>
       <img src="https://skillicons.dev/icons?i=react,next,styledcomponents,tailwindcss,angular" />
+    </p>
+  </details>
+
+  <details>
+    <summary>💾 Database</summary>
+    <br>
+    <p>
+      <img src="https://skillicons.dev/icons?i=firebase" />
+    </p>
+  </details>
+
+  <details>
+    <summary>🎨 Design</summary>
+    <br>
+    <p>
+      <img src="https://skillicons.dev/icons?i=ps,figma" />
+    </p>
+  </details>
+
+  <details>
+    <summary>👻 Hosting</summary>
+    <br>
+    <p>
+      <img src="https://skillicons.dev/icons?i=vercel" />
     </p>
   </details>
 
