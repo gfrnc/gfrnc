@@ -75,6 +75,8 @@
 
 ## **🚀 Check out my portfolio:**
 
+I built this portfolio using React, Next.js and Styled Components.
+
 <a href="https://gfrnca.vercel.app">gfrnca.vercel.app</a>
 
 
