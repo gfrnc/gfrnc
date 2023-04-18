@@ -65,4 +65,16 @@
     </p>
   </details>
 
+  <details>
+    <summary>🪢 Versioning</summary>
+    <br>
+    <p>
+      <img src="https://skillicons.dev/icons?i=git,github" />
+    </p>
+  </details>
+
+## **🚀 Check out my portfolio:**
+
+<a href="gfrnca.vercel.app">gfrnca.vercel.app</a>
+
 
