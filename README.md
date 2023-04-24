@@ -68,7 +68,7 @@
   </details>
 
   <details>
-    <summary>🪢 Versioning</summary>
+    <summary>👽 Versioning</summary>
     <br>
     <p>
       <img src="https://skillicons.dev/icons?i=git,github" />
