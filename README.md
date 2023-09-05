@@ -7,7 +7,7 @@ Currently working at @intrabank
 
 I'm an 18-year-old aspiring front-end development student located in São Paulo, Brazil. My passion lies in crafting user interfaces and bringing creative concepts to life. On this platform, you'll discover an assortment of my projects and contributions, showcasing my journey through the world of web development.
 
-### Focused on learning:
+### Focused on:
 
 ![React](https://img.shields.io/badge/React-552f96?logo=react&logoColor=%23fff)
 ![Next.js](https://img.shields.io/badge/Next.js-552f96?logo=nextdotjs&logoColor=%23fff)
