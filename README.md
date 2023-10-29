@@ -5,7 +5,7 @@ Currently working at @intrabank
 [![Portfólio](https://img.shields.io/badge/Portfólio-552f96?style=for-the-badge&logo=nextdotjs)](https://gfrnca.vercel.app/)
 [![gabrielbfranca27@gmail.com](https://img.shields.io/badge/gabrielbfranca27%40gmail.com-552f96?style=for-the-badge&logo=gmail&logoColor=%23fff)](mailto:diego.schell.f@gmail.com)
 
-I'm an 18-year-old aspiring front-end development student located in São Paulo, Brazil. My passion lies in crafting user interfaces and bringing creative concepts to life. On this platform, you'll discover an assortment of my projects and contributions, showcasing my journey through the world of web development.
+I'm an 19-year-old aspiring front-end development student located in São Paulo, Brazil. My passion lies in crafting user interfaces and bringing creative concepts to life. On this platform, you'll discover an assortment of my projects and contributions, showcasing my journey through the world of web development.
 
 ### Focused on:
 
