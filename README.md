@@ -15,6 +15,7 @@ I'm an 19-year-old front-end developer located in São Paulo, Brazil. My passion
 <br><br>
 ![Typescript](https://img.shields.io/badge/Typescript-1f1f1f?logo=typescript&logoColor=%23fff)
 ![Javascript](https://img.shields.io/badge/Javascript-1f1f1f?logo=javascript&logoColor=%23fff)
+![Docker](https://img.shields.io/badge/Docker-1f1f1f?logo=javascript&logoColor=%23fff)
 
 
 
