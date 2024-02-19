@@ -12,10 +12,11 @@ I'm an 19-year-old front-end developer located in São Paulo, Brazil. My passion
 ![Next.js](https://img.shields.io/badge/Next.js-1f1f1f?logo=nextdotjs&logoColor=%23fff)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1f1f1f?logo=tailwindcss&logoColor=%23fff)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-1f1f1f?logo=styledcomponents&logoColor=%23fff)
+![Framer](https://img.shields.io/badge/Framer-1f1f1f?logo=Framer&logoColor=%23fff)
 <br><br>
 ![Typescript](https://img.shields.io/badge/Typescript-1f1f1f?logo=typescript&logoColor=%23fff)
 ![Javascript](https://img.shields.io/badge/Javascript-1f1f1f?logo=javascript&logoColor=%23fff)
-![Docker](https://img.shields.io/badge/Docker-1f1f1f?logo=javascript&logoColor=%23fff)
+![Docker](https://img.shields.io/badge/Docker-1f1f1f?logo=docker&logoColor=%23fff)
 
 
 
