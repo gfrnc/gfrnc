@@ -1,5 +1,5 @@
 # Gabriel França
-Currently working at @intrabank
+Currently working as Front-end Developer at @intrabank
 
 [![Gabriel França](https://img.shields.io/badge/Gabriel_França-1f1f1f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gfrnca/)
 [![gabrielbfranca27@gmail.com](https://img.shields.io/badge/gabrielbfranca27%40gmail.com-1f1f1f?style=for-the-badge&logo=gmail&logoColor=%23fff)](mailto:diego.schell.f@gmail.com)
